@@ -1,0 +1,12 @@
+# Build and Object Folders
+bin/
+obj/
+
+#User Specific Files
+*.user
+*.suo
+*.pyc
+
+#Resource Caches
+_ReSharper.*
+*.sln.cache
